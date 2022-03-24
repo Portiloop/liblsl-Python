@@ -44,7 +44,7 @@ with open("pylsl/version.py") as fp:
 
 
 setup(
-    name='pylsl',
+    name='pylsl-coral',
 
     version=version['__version__'],
 
